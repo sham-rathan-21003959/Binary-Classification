@@ -1,3 +1,5 @@
+## EXP.NO: 01
+## DATE  : 
 # BINARY CLASSIFICATION
 ## Aim:
 To write a python program to perform binary classification.
@@ -50,4 +52,4 @@ pyplot.show()
 ![binary classification plot](/02.png)
 
 ## Result:
-Thus the python program performed binary classification successfully.
+Thus the python program performed binary classification successfully
